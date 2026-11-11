@@ -1,3 +1,17 @@
+# Password Manager - Project 2
+
+# Local encrypted vault files
+vault.json
+*.vault.json
+.vault-*.tmp
+demo.json
+
+# Private and public key files generated for demonstrations
+*.pem
+
+# Encrypted sharing output
+*.share.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
