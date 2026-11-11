@@ -3,11 +3,12 @@
 **Project:** Command-line password manager 
 
 **Team**
-| Chinese Name | English Name | Student ID |
-|--------------|--------------|------------|
-| 张馨月       | Jacinda      | 2023905322 |
-| 郭可馨       | Katie        | 2023905318 |
-| 边红瑞       | Rae/Hongrui  | 2023905334 |
+
+| Chinese Name         | English Name | Student ID |
+|----------------------|--------------|------------|
+| 张馨月 (Zhang Xinyue) | Jacinda      | 2023905322 |
+| 郭可馨 (Guo Kexin)    | Katie        | 2023905318 |
+| 边红瑞 (Bian Hongrui) | Rae/Hongrui  | 2023905334 |
 
 ## About the project
 
